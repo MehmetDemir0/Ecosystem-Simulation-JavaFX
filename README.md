@@ -95,7 +95,7 @@ Renders each organism on `ecosystemGrid` as a styled `StackPane`, grouped by spe
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/MehmetDemir0/Ecosystem-Simulation-JavaFX.git
    ```
 2. Open the project in IntelliJ IDEA.
 3. Under **File → Project Structure → Project**, confirm the SDK is set to Java 24 or later.
