@@ -8,7 +8,7 @@ An object-oriented artificial ecosystem simulation built with Java and JavaFX. P
 
 ## Screenshots
 
-| Initial State | Simulation in Progress | Advanced Simulation |
+| Screenshot Running 1 | Screenshot Running 2 | Screenshot Running 3 |
 |:---:|:---:|:---:|
 | ![Screenshot Running 1](docs/screenshot-running-1.png) | ![Screenshot Running 2](docs/screenshot-running-2.png) | ![Screenshot Running 3](docs/screenshot-running-3.png) |
 
