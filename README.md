@@ -10,7 +10,7 @@ An object-oriented artificial ecosystem simulation built with Java and JavaFX. P
 
 | Initial State | Simulation in Progress | Advanced Simulation |
 |:---:|:---:|:---:|
-| ![Initial state](docs/screenshot-running-1.png) | ![Running simulation 1](docs/screenshot-running-2.png) | ![Running simulation 2](docs/screenshot-running-3.png) |
+| ![Screenshot Running 1](docs/screenshot-running-1.png) | ![Screenshot Running 2](docs/screenshot-running-2.png) | ![Screenshot Running 3](docs/screenshot-running-3.png) |
 
 | Exit Confirmation | All Organisms Deceased |
 |:---:|:---:|
